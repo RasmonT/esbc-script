@@ -17,7 +17,7 @@ echo -e "${GREEN} ---------------ESBC Updater v2.1.0.2----------------+
  |              |__  /__  |__) /                    |::
  |              |___ .__/ |__) \__                  |::
  |                                                  |::
- |     ${YELLOW}ESBC Updater v 2.1.0.1 which check your      ${GREEN}|::
+ |     ${YELLOW}ESBC Updater v 2.1.0.2 which check your      ${GREEN}|::
  |            ${YELLOW}version and force update ${GREEN}             |::
  |                 ${YELLOW}By ${CYAN}RasmonT ${GREEN}                      |::
  +------------------------------------------------+::
